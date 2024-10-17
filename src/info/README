@@ -1,0 +1,30 @@
+---------------------------------------------
+Examination Seating Arrangement System
+---------------------------------------------
+
+This is a java based software to arrange seats for an examination.
+Currently all seating arrangements are done manually. This software arranges
+the students in column wise order so that no two students of the same class
+appears side by side.
+
+Software Features:
+------------------
+* batch management
+* staff management
+* scheme management
+* hall management
+* subject management
+* department management
+* exam management
+* absentees management
+* seating management
+* user management
+* student management
+* seating arrangement printing
+* batch student list printing
+
+installation requirements:
+--------------------------
+java 1.6
+mysql
+
